@@ -1,0 +1,15 @@
+{
+    "name": "Face Identification Engine",
+    "version": "18.0.0.0.1",
+    "category": "Tools",
+    "summary": """Engine for face identification """,
+    "author": "ARA SOFT",
+    "depends": ["base"],
+    "images": [],
+    "license": "OPL-1",
+    "installable": True,
+    "auto_install": False,
+    "application": False,
+    "price": 70.22,
+    "currency": "USD",
+}
